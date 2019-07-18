@@ -1,0 +1,2 @@
+# CRUDNodeMongoVue
+Crud application
